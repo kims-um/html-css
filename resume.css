@@ -1,0 +1,61 @@
+.main-box {
+  width: 600px;
+  margin: 30px;
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  box-shadow: 0 1px 20px 0 black;
+}
+
+.title-wrap {
+  text-align: right;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.title-text {
+  margin-top: -30px;
+  font-size: 20px;
+  font-weight: bold;
+  color: cadetblue;
+}
+
+.about {
+  font-size: 40px;
+  border-bottom: 1px solid tan;
+  color: aqua;
+}
+
+.awe {
+  float: left;
+}
+
+.now {
+  float: right;
+}
+
+.month {
+  overflow: hidden;
+  margin-top: -40px;
+}
+
+.pad {
+  padding-left: 10px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  bord
+}
+
+.pad {
+    margin-left: 20px;
+    padding-right: 30px;
+    border: 3px solid black
+    background-color:#ff0000
