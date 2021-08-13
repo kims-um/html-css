@@ -6,6 +6,28 @@
     <meta name="description" content="HTML Documet" />
     <meta name="keywords" content="HTMl, CSS, JAVASCRIPT" />
     <title>Document</title>
+    <style>
+      html {
+        font-size: 10px;
+      }
+      .em {
+        font-size: 2em;
+      }
+      .rem {
+        font-size: 2rem;
+      }
+    </style>
   </head>
-  <body></body>
+  <body>
+    중첩1
+    <div class="em">
+      중첩2
+      <div class="em">중첩3</div>
+    </div>
+    중첩1
+    <article class="rem">
+      중첩2
+      <article class="rem">중첩3</article>
+    </article>
+  </body>
 </html>
